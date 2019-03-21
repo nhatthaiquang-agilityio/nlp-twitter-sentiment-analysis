@@ -1,5 +1,14 @@
 # nlp-twitter-sentiment-analysis
 
+### Overview
+![Overview](./overview.png)
+
+### Step
++ Preparation data
++ Feature Extraction
++ Training Classifier
++ Classification
++ Accuracy
 
 ### Run
 ```
