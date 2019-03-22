@@ -3,7 +3,7 @@
 ### Overview
 ![Overview](./overview.png)
 
-### Step
+### Processing Steps
 + Preparation data
 + Feature Extraction
 + Training Classifier
